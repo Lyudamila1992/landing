@@ -924,7 +924,7 @@ transform: rotate(-45deg);
 }
 
 .banner {
-    background: url(../images/banner.jpg) no-repeat center;
+    background: url(../Images/banner.jpg) no-repeat center;
     background-size: cover;
     min-height: 1080px;
     padding: 25px 0;

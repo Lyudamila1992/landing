@@ -932,17 +932,6 @@ transform: rotate(-45deg);
     align-items: center;
     text-align: center;
     justify-content: center;
-}
-
-.banner {
-    background: url(../Images/banner.jpg) no-repeat center;
-    background-size: cover;
-    min-height: 1080px;
-    padding: 25px 0;
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
     position: relative;
 }
 

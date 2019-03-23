@@ -936,6 +936,10 @@ transform: rotate(-45deg);
 }
 
 .banner:before {
+    background: url(../Images/banner.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 1080px;
+    padding: 25px 0;
     content: attr(class);
     display: inline-block;
     position: absolute;

@@ -935,29 +935,6 @@ transform: rotate(-45deg);
     position: relative;
 }
 
-.banner:before {
-    background: url(../Images/banner.jpg) no-repeat center;
-    background-size: cover;
-    min-height: 1080px;
-    padding: 25px 0;
-    content: attr(class);
-    display: inline-block;
-    position: absolute;
-    animation: timing 5s infinite;
-}
-
-@keyframes timing {
-    50%{
-      left: 100%;
-      margin-left: -5.6em;
-    }
-}
-
-.ease:before {
-    animation-timing-function: ease;
-}
-
-
 .header {
     position: fixed;
     padding-top: 27px;
